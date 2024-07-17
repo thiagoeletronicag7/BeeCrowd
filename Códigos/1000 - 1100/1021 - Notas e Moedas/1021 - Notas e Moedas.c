@@ -1,13 +1,3 @@
-/*
-   CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA - CEFET-MG
-   Nome: THIAGO RODRIGUES VALENTIM
-   Matrícula: 20203015926
-   Turma: 2ECOM.001 e 2ECOM.002
-   Professor: JEFERSON FIGUEIREDO CHAVES
-
-   Descrição do problema: Notas e Moedas, URI 1021
-*/
-
 #include <stdio.h>
 
 int main()
