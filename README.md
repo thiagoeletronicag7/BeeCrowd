@@ -9,5 +9,5 @@ Esse projeto tem fins acadêmicos e de aprendizados, para fins de comparação d
 
 Para sugestões, basta enviar uma mensagem!
 
-- [ ] [1000 - 1050](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1000-1100.md)
+- [ ] [1000 - 1050](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1000-1050.md)
 - [ ] [1051 - 1100](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1051-1100.md)
