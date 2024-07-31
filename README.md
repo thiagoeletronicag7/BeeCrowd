@@ -20,3 +20,4 @@ Para sugestões, basta enviar uma mensagem!
 - [ ] [1401 - 1450](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1401-1450.md)
 - [ ] [1451 - 1500](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1451-1500.md)
 - [ ] [1501 - 1550](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1501-1550.md)
+- [ ] [1551 - 1600](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1551-1600.md)
