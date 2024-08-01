@@ -26,3 +26,4 @@ Para sugestões, basta enviar uma mensagem!
 - [ ] [1701 - 1750](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1701-1750.md)
 - [ ] [1751 - 1800](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1751-1800.md)
 - [ ] [1801 - 1850](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1801-1850.md)
+- [ ] [1851 - 1900](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1851-1900.md)
