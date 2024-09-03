@@ -29,3 +29,4 @@ Para sugestões, basta enviar uma mensagem!
 - [ ] [1851 - 1900](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1851-1900.md)
 - [ ] [1901 - 1950](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1901-1950.md)
 - [ ] [1951 - 2000](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/1951-2000.md)
+- [ ] [2001 - 2050](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2001-2050.md)
