@@ -52,3 +52,4 @@ Para sugestões, basta enviar uma mensagem!
 - [ ] [3001 - 3050](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/3001-3050.md)
 - [ ] [3051 - 3100](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/3051-3100.md)
 - [ ] [3101 - 3150](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/3101-3150.md)
+- [ ] [3151 - 3200](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/3151-3200.md)
