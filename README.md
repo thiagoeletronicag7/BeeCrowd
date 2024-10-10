@@ -47,3 +47,4 @@ Para sugestões, basta enviar uma mensagem!
 - [ ] [2751 - 2800](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2751-2800.md)
 - [ ] [2801 - 2850](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2801-2850.md)
 - [ ] [2851 - 2900](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2851-2900.md)
+- [ ] [2901 - 2950](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2901-2950.md)
