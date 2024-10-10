@@ -42,3 +42,4 @@ Para sugestões, basta enviar uma mensagem!
 - [ ] [2501 - 2550](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2501-2550.md)
 - [ ] [2551 - 2600](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2551-2600.md)
 - [ ] [2601 - 2650](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2601-2650.md)
+- [ ] [2651 - 2700](https://github.com/thiagoeletronicag7/BeeCrowd/blob/main/Exerc%C3%ADcios/2651-2700.md)
